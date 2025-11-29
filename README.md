@@ -1,4 +1,4 @@
-# Predicting Handwritten Digits Using CNN
+# German Traffic Sign Recognition Using CNN
 
 ## Overview
 This repository contains a Jupyter notebook for training and evaluating a Convolutional Neural Network (CNN) to classify traffic sign images using the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The goal is to build a multi-class image classifier capable of recognizing a variety of road-sign classes under variable real-world conditions (lighting, sign orientation, background clutter, etc.).
